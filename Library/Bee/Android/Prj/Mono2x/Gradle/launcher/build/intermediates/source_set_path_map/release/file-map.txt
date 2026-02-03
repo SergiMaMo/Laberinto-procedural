@@ -1,0 +1,9 @@
+com.DefaultCompany.Laberintoprocedural.launcher-pngs-0 C:\Users\Sergio\source\repos\Laberinto procedural\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.Laberintoprocedural.launcher-resValues-1 C:\Users\Sergio\source\repos\Laberinto procedural\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.Laberintoprocedural.launcher-rs-2 C:\Users\Sergio\source\repos\Laberinto procedural\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.Laberintoprocedural.launcher-mergeReleaseResources-3 C:\Users\Sergio\source\repos\Laberinto procedural\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.Laberintoprocedural.launcher-mergeReleaseResources-4 C:\Users\Sergio\source\repos\Laberinto procedural\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.Laberintoprocedural.launcher-merged_res-5 C:\Users\Sergio\source\repos\Laberinto procedural\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.Laberintoprocedural.launcher-main-6 C:\Users\Sergio\source\repos\Laberinto procedural\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.Laberintoprocedural.launcher-release-7 C:\Users\Sergio\source\repos\Laberinto procedural\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.Laberintoprocedural.launcher-packaged_res-8 C:\Users\Sergio\source\repos\Laberinto procedural\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release

@@ -1,0 +1,4 @@
+#Thu Jan 29 20:19:03 CET 2026
+base.0=C\:\\Users\\Sergio\\source\\repos\\Laberinto procedural\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
